@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 const HeroSection = () => {
   const redirectToTelegram = () => {
-    window.open("https://t.me/razor_1xx", "_blank");
+    window.open("https://t.me/razor_1x", "_blank");
   };
 
   return (
